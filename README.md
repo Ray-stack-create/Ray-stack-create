@@ -1,8 +1,8 @@
 <img align="center" alt="Coding" height="200" width="1500" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif">
 <h1 align="center">Hi 👋, I'm Sankhadip Roy</h1>
 <h3 align="center">A passionate frontend developer and ML enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/adorable-white-cat-typing-on-keyboard-mcx89p34ojfj25fh.gif">
 
+<img align="right" alt="coding" width="200" src="https://gifdb.com/images/high/adorable-white-cat-typing-on-keyboard-mcx89p34ojfj25fh.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ray-stack-create&label=Profile%20views&color=0e75b6&style=flat" alt="ray-stack-create" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
