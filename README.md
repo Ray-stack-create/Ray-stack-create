@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://camo.githubusercontent.com/b0b16e93b09cb358900760023f37515768a3927e2bc468d18901a7b94c3c917f/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f35346236633036383039373539392e356235306263613437366239622e676966)]
+<img align="center" alt="Coding" height="200" width="1500" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif">
 <h1 align="center">Hi 👋, I'm Sankhadip Roy</h1>
 <h3 align="center">A passionate frontend developer and ML enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="[https://tenor.com/XFgo.gif](https://gifdb.com/gif/adorable-white-cat-typing-on-keyboard-mcx89p34ojfj25fh.html?embed=true)">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/adorable-white-cat-typing-on-keyboard-mcx89p34ojfj25fh.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ray-stack-create&label=Profile%20views&color=0e75b6&style=flat" alt="ray-stack-create" /> </p>
 
